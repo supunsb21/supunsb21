@@ -27,11 +27,6 @@
 
 ### GitHub Stats
 
-<div align="center">
-  <a href="https://github.com/supunsb21">
-    <img src="https://github-readme-stats.vercel.app/api?username=supunsb21&show_icons=true&theme=tokyonight&hide_border=true" height="150" alt="stats graph" />
-  </a>
-  <a href="https://github.com/supunsb21">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=supunsb21&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="languages graph" />
-  </a>
-</div>
+![Supun's GitHub stats](https://github-readme-stats.vercel.app/api?username=supunsb21&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=supunsb21&layout=compact&theme=tokyonight&hide_border=true)
